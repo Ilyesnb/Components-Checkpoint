@@ -3,7 +3,7 @@ import React from 'react';
 const Address = () => {
     return (
         <div style={{marginLeft:"50%",}}>
-            <h2>addresses</h2>
+            <h2>addresse</h2>
             <ul>
                 <li><b>Street</b>:  14 rue Boughaba Amar, 25000</li>
                 <li><b>City</b>:  Constantine</li>
